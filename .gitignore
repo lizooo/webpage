@@ -113,3 +113,7 @@ migrations/*
 # File with settings
 website/settings.py
 
+#keys
+liza_key[D[D[D[o_git_key
+liza_key[D[D[D[o_git_key.pub
+

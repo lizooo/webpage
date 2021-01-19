@@ -15,10 +15,10 @@ const Hero = () => (
           Brighten your <br /> traveling experience with Visiti!
         </h1>
         <h4>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Eget ac
-          dictum tellus diam. Quam tortor diam massa nec eu lobortis eget
-          aenean. Aliquam nascetur purus sed consequat quis nascetur est eget
-          vitae. Nunc suspendisse ac massa eget egestas{" "}
+          You want to explore a new destination but all tours are booked? Visiti
+          is a way to go! We split big multiday tours into separate activities
+          and make it possible for you to join any of them. Only exclusive
+          offers with group pricing for your entertainment!
         </h4>
       </HeroText>
       <HeroImg>

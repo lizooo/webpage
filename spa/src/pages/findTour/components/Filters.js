@@ -8,6 +8,7 @@ import {
 import CustomizedSlider from "./CustomSlider";
 import { Application } from "react-rainbow-components";
 import { theme } from "../../../constants/StylingConstants";
+import {Button} from "../../../components/Buttons/Button.styled"
 
 const options1 = [
     {
@@ -139,6 +140,7 @@ function Filters() {
               <Option name="option-3" label="1000+" />
               <Option name="option-4" label="3000+" />
             </MultiSelect>
+            <Button primary style={{margin: '20px 10px 10px 120px'}} onClick={()=> alert("Functionality comming up!")}>Apply filters</Button>
           </Application>
       );
     }

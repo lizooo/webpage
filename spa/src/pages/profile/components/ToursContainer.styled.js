@@ -4,6 +4,8 @@ import styled from "styled-components"
 
 export const TourContainer = styled.div`
 display:flex;
+padding-left: 40px;
+box-sizing: border-box;
 flex-direction: column;
   @media screen and (max-width: 420px) {
     align-self: center;
@@ -44,13 +46,13 @@ padding-top: 25px;
 
 export const TourItem = styled.div`
 
-margin-right: 75px;
+margin-right: 35px;
   @media screen and (max-width: 420px) {
     display: flex;
       flex-direction: column;
     align-items: center;
     margin: 0 auto;
-    padding-bottom: 35px;
+    padding-bottom: 25px;
   }
 `;
 export const TourItemImg = styled.div`
